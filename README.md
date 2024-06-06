@@ -13,6 +13,6 @@ Contact Form: Enables users to get in touch with customer support.
 
 ## Technologies Used
 
-### HTML: Structure and content of the web pages.
-### CSS: Styling and layout of the web pages.
-### JavaScript: Interactivity and functionality.
+HTML: Structure and content of the web pages.
+CSS: Styling and layout of the web pages.
+JavaScript: Interactivity and functionality.
